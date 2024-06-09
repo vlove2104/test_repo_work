@@ -1,6 +1,6 @@
 # test_repo_work
 
-Environment Level: Development (DEV)
+Environment Level: Development
 
 URL: https://client.system.com
 
