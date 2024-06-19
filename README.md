@@ -9,11 +9,11 @@ Emails are directed to the following account in [GoldMail](https://gmail.com):
 - Password: `password`
 
 ## Implemented Solutions
-This environment contains the following *pre-built* solutions:
+The following *Onit* solutions are deployed in this environment:
 - Matter Management
 - Contract Management
 - Legal Hold
 
-This environment contains the following *custom* solutions:
+The following *custom* solutions are deployed in this envnironment:
 - Compliance forms
 - Power of Attorney (POA)
